@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Abdulbarilive",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "MCFleetOG-FWCc.aternos.me",
+    "port": 13705,
     "version": "1.20.1",
     "try-creative": false
   },
